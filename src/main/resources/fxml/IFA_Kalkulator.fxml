@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Copyright (c) 2015, 2019, Gluon and/or its affiliates.
+  All rights reserved. Use is subject to license terms.
+
+  This file is available and licensed under the following license:
+
+  Redistribution and use in source and binary forms, with or without
+  modification, are permitted provided that the following conditions
+  are met:
+
+  - Redistributions of source code must retain the above copyright
+    notice, this list of conditions and the following disclaimer.
+  - Redistributions in binary form must reproduce the above copyright
+    notice, this list of conditions and the following disclaimer in
+    the documentation and/or other materials provided with the distribution.
+  - Neither the name of Oracle Corporation nor the names of its
+    contributors may be used to endorse or promote products derived
+    from this software without specific prior written permission.
+
+  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+  "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+  LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+  A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+  OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+  SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+  LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+  DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+  THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+  (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+  OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.SeparatorMenuItem?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+
+<VBox xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.IFA_KalkulatorController">
+  <children>
+    <MenuBar prefHeight="21.0" prefWidth="738.0" VBox.vgrow="NEVER">
+      <menus>
+        <Menu mnemonicParsing="false" text="File">
+          <items>
+            <MenuItem mnemonicParsing="false" text="New" />
+            <MenuItem mnemonicParsing="false" text="Open…" />
+            <Menu mnemonicParsing="false" text="Open Recent" />
+            <SeparatorMenuItem mnemonicParsing="false" />
+            <MenuItem mnemonicParsing="false" text="Close" />
+            <MenuItem mnemonicParsing="false" text="Save" />
+            <MenuItem mnemonicParsing="false" text="Save As…" />
+            <MenuItem mnemonicParsing="false" text="Revert" />
+            <SeparatorMenuItem mnemonicParsing="false" />
+            <MenuItem mnemonicParsing="false" text="Preferences…" />
+            <SeparatorMenuItem mnemonicParsing="false" />
+            <MenuItem mnemonicParsing="false" text="Quit" />
+          </items>
+        </Menu>
+        <Menu mnemonicParsing="false" text="Edit">
+          <items>
+            <MenuItem mnemonicParsing="false" text="Undo" />
+            <MenuItem mnemonicParsing="false" text="Redo" />
+            <SeparatorMenuItem mnemonicParsing="false" />
+            <MenuItem mnemonicParsing="false" text="Cut" />
+            <MenuItem mnemonicParsing="false" text="Copy" />
+            <MenuItem mnemonicParsing="false" text="Paste" />
+            <MenuItem mnemonicParsing="false" text="Delete" />
+            <SeparatorMenuItem mnemonicParsing="false" />
+            <MenuItem mnemonicParsing="false" text="Select All" />
+            <MenuItem mnemonicParsing="false" text="Unselect All" />
+          </items>
+        </Menu>
+        <Menu mnemonicParsing="false" text="Help">
+          <items>
+            <MenuItem mnemonicParsing="false" text="About MyHelloApp" />
+          </items>
+        </Menu>
+      </menus>
+    </MenuBar>
+    <AnchorPane maxHeight="-1.0" maxWidth="-1.0" prefHeight="417.0" prefWidth="738.0" VBox.vgrow="ALWAYS">
+      <children>
+            <GridPane layoutX="14.0" layoutY="3.0" prefHeight="381.0" prefWidth="314.0">
+              <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="168.0" minWidth="10.0" prefWidth="123.0" />
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="248.0" minWidth="10.0" prefWidth="182.0" />
+              </columnConstraints>
+              <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+              </rowConstraints>
+               <children>
+                  <Label text="Érkezés dátuma:" />
+                  <Label text="Távozás dátuma:" GridPane.rowIndex="1" />
+                  <Label text="Vendégek száma:" GridPane.rowIndex="2" />
+                  <Label text="18 évnél fiatalabbak:" GridPane.rowIndex="3" />
+                  <Label text="Helyi lakosok száma:" GridPane.rowIndex="4" />
+                  <Label text="Menekültek száma:" GridPane.rowIndex="5" />
+                  <DatePicker fx:id="ErkezesDatum" GridPane.columnIndex="1" />
+                  <DatePicker fx:id="TavozasDatum" onAction="#ShowDays" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                  <Label text="Éjszakák száma:" GridPane.rowIndex="7" />
+                  <Label fx:id="EjszakakSzama" prefHeight="17.0" prefWidth="183.0" text="0" GridPane.columnIndex="1" GridPane.rowIndex="7" />
+                  <TextField fx:id="VendegekSzama" onAction="#CountIFA" prefHeight="25.0" prefWidth="111.0" text="0" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                  <TextField fx:id="FiatalokSzama" onAction="#CountIFA" text="0" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                  <TextField fx:id="HelyiekSzama" onAction="#CountIFA" text="0" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+                  <TextField fx:id="MenekultekSzama" onAction="#CountIFA" text="0" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+                  <Label text="IFA összege:" GridPane.rowIndex="9" />
+                  <Label fx:id="ifa" prefHeight="17.0" prefWidth="185.0" text="0 Ft" GridPane.columnIndex="1" GridPane.rowIndex="9" />
+                  <Label text="Ár (fő/éj Ft):" GridPane.rowIndex="6" />
+                  <Label text="Szállás díja:" GridPane.rowIndex="8" />
+                  <Label text="Teljes összeg:" GridPane.rowIndex="10">
+                     <font>
+                        <Font name="System Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="szallasOsszeg" prefHeight="17.0" prefWidth="184.0" text="0 Ft" GridPane.columnIndex="1" GridPane.rowIndex="8" />
+                  <Label fx:id="TeljesOsszeg" prefHeight="17.0" prefWidth="184.0" text="0 Ft" GridPane.columnIndex="1" GridPane.rowIndex="10">
+                     <font>
+                        <Font name="System Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <TextField fx:id="FoPerEj" onAction="#CountIFA" text="6000" GridPane.columnIndex="1" GridPane.rowIndex="6" />
+                  <Label text="Szabad helyek:" GridPane.rowIndex="11" />
+                  <Label fx:id="szabadHelyek" prefHeight="17.0" prefWidth="196.0" GridPane.columnIndex="1" GridPane.rowIndex="11" />
+               </children>
+            </GridPane>
+            <Button fx:id="Foglal" layoutX="482.0" layoutY="31.0" mnemonicParsing="false" onAction="#Book" prefHeight="81.0" prefWidth="115.0" text="Foglal" />
+            <Line endX="252.0" layoutX="470.0" layoutY="129.0" startX="-100.0" />
+            <GridPane layoutX="412.0" layoutY="190.0" prefHeight="226.0" prefWidth="267.0">
+              <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+              </columnConstraints>
+              <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+              </rowConstraints>
+               <children>
+                  <Label text="Vendég éjszakák:" />
+                  <Label text="Szállás diíj:" GridPane.rowIndex="1" />
+                  <Label text="IFA összege:" GridPane.rowIndex="2" />
+                  <Label text="Turisztikai hozzájárulás:" GridPane.rowIndex="3" />
+                  <Label text="Általány adó:" GridPane.rowIndex="4" />
+                  <Label text="Összes kiadás:" GridPane.rowIndex="5" />
+                  <Label fx:id="osszVendeg" GridPane.columnIndex="1" />
+                  <Label fx:id="osszDij" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                  <Label fx:id="osszIFA" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                  <Label fx:id="OsszTurisztika" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                  <Label fx:id="osszAltalanyAdo" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+                  <Label fx:id="osszKiadas" textFill="#c93030" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+                  <Label text="Összes bevétel:" GridPane.rowIndex="6" />
+                  <Label text="Éves mérleg:" GridPane.rowIndex="7">
+                     <font>
+                        <Font name="System Bold" size="14.0" />
+                     </font></Label>
+                  <Label fx:id="osszBevetel" textFill="#38a134" GridPane.columnIndex="1" GridPane.rowIndex="6" />
+                  <Label fx:id="merleg" textFill="#40bc2c" GridPane.columnIndex="1" GridPane.rowIndex="7">
+                     <font>
+                        <Font name="System Bold" size="14.0" />
+                     </font>
+                  </Label>
+               </children>
+            </GridPane>
+            <Button fx:id="EvesStat" layoutX="485.0" layoutY="147.0" mnemonicParsing="false" onAction="#countEves" prefHeight="25.0" prefWidth="115.0" text="Éves statisztika" />
+      </children>
+    </AnchorPane>
+      <TextField />
+      <Line endX="100.0" startX="-100.0" />
+  </children>
+</VBox>

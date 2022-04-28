@@ -1,0 +1,3652 @@
+[
+    {
+      "day" : 1,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 2,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 3,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 4,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 5,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 6,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 7,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 8,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 9,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 10,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 11,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 12,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 13,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 14,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 15,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 16,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 17,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 18,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 19,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 20,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 21,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 22,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 23,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 24,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 25,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 26,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 27,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 28,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 29,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 30,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 31,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 32,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 33,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 34,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 35,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 36,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 37,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 38,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 39,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 40,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 41,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 42,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 43,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 44,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 45,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 46,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 47,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 48,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 49,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 50,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 51,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 52,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 53,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 54,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 55,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 56,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 57,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 58,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 59,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 60,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 61,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 62,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 63,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 64,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 65,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 66,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 67,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 68,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 69,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 70,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 71,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 72,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 73,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 74,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 75,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 76,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 77,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 78,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 79,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 80,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 81,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 82,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 83,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 84,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 85,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 86,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 87,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 88,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 89,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 90,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 91,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 92,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 93,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 94,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 95,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 96,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 97,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 98,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 99,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 100,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 101,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 102,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 103,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 104,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 105,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 106,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 107,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 108,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 109,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 110,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 111,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 112,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 113,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 114,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 115,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 116,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 117,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 118,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 119,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 120,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 121,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 122,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 123,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 124,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 125,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 126,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 127,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 128,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 129,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 130,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 131,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 132,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 133,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 134,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 135,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 136,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 137,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 138,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 139,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 140,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 141,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 142,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 143,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 144,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 145,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 146,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 147,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 148,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 149,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 150,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 151,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 152,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 153,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 154,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 155,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 156,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 157,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 158,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 159,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 160,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 161,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 162,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 163,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 164,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 165,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 166,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 167,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 168,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 169,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 170,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 171,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 172,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 173,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 174,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 175,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 176,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 177,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 178,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 179,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 180,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 181,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 182,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 183,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 184,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 185,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 186,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 187,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 188,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 189,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 190,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 191,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 192,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 193,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 194,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 195,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 196,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 197,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 198,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 199,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 200,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 201,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 202,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 203,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 204,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 205,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 206,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 207,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 208,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 209,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 210,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 211,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 212,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 213,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 214,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 215,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 216,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 217,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 218,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 219,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 220,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 221,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 222,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 223,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 224,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 225,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 226,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 227,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 228,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 229,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 230,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 231,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 232,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 233,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 234,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 235,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 236,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 237,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 238,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 239,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 240,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 241,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 242,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 243,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 244,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 245,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 246,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 247,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 248,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 249,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 250,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 251,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 252,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 253,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 254,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 255,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 256,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 257,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 258,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 259,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 260,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 261,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 262,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 263,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 264,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 265,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 266,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 267,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 268,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 269,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 270,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 271,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 272,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 273,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 274,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 275,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 276,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 277,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 278,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 279,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 280,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 281,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 282,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 283,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 284,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 285,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 286,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 287,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 288,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 289,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 290,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 291,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 292,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 293,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 294,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 295,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 296,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 297,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 298,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 299,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 300,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 301,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 302,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 303,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 304,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 305,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 306,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 307,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 308,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 309,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 310,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 311,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 312,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 313,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 314,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 315,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 316,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 317,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 318,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 319,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 320,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 321,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 322,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 323,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 324,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 325,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 326,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 327,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 328,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 329,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 330,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 331,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 332,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 333,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 334,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 335,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 336,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 337,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 338,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 339,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 340,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 341,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 342,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 343,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 344,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 345,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 346,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 347,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 348,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 349,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 350,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 351,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 352,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 353,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 354,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 355,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 356,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 357,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 358,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 359,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 360,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 361,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 362,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 363,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 364,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    },
+    {
+      "day" : 365,
+      "helyiekSzáma" : 0,
+      "vendegek" : [ ],
+      "dátum" : "",
+      "vendégekSzáma" : 0,
+      "fiatalokSzáma" : 0,
+      "menekűltekSzáma" : 0,
+      "szállásértfizetve" : 0
+    }
+]
